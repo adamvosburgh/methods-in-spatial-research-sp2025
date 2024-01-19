@@ -1,24 +1,24 @@
 ---
-title: Syllabus
+title: Methods in Spatial Research
 cat: syllabus
 ---
 
-![sample maps](/header_img.png)
+<!-- ![sample maps](images/header_img.png)
 
 From left:  
 [Dennis Wood. 2011. “Everything Sings: Maps for a Narrative Atlas” via Places Journal](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1); 
-Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net)
+Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net) -->
 
-## Methods in Spatial Research
+## Syllabus
 
-Spring 2028
+Spring 2024 
 Friday 9-11, session A
 1.5 credits
 Ware Lounge
 
 Adam Vosburgh 
 adam (dot) vosburgh (at) columbia.edu  
-office hours by appointment, sign up [here](https://calendly.com/akv2118/a4407-office-hours)
+office hours by appointment, sign up [here](https://calendar.app.google/GNLUhXf1bNQQrp348)
 
 ## Description
 
@@ -44,20 +44,20 @@ After completing the course participants will:
 
 | Date | Week |  Topic | Tutorial due |  Assignment due |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1/20 | 1 | Introduction to Critical GIS + Spatial Data Types |  |   |
-| 1/27 | 2 |  Cartographic Projections + Mapping Existing Datasets | Tutorial 1 & 2 |  Assignment 0  |
-| 2/3 | 3 |   Making Data from Archives |  |  Assignment 1 |
-| 2/10 | 4 | Making Data From Observation & Sensing | Tutorial 3 |  Assignment 2 |
-| 2/17 | 5 |  Making Data from Satellites | Tutorial 4 |  Assignment 3 |
-| 2/24 | 6 |  Maps & Narrative | Tutorial 5 OR Tutorial 6 |  Assignment 4 |
-| 3/09 |  | Portfolio Due | |
+| 1/19 | 1 | Introduction to Critical GIS + Spatial Data Types |  |   |
+| 1/26 | 2 |  Cartographic Projections + Mapping Existing Datasets | Tutorial 1 & 2 |  Assignment 0  |
+| 2/02 | 3 |   Making Data from Archives |  |  Assignment 1 |
+| 2/09 | 4 | Making Data From Observation & Sensing | Tutorial 3 |  Assignment 2 |
+| 2/16 | 5 |  Making Data from Satellites | Tutorial 4 |  Assignment 3 |
+| 2/23 | 6 |  Maps & Narrative | Tutorial 5 OR Tutorial 6 |  Assignment 4 |
+| 3/08 |  | Portfolio Due | |
 
 ## Weekly Schedule, Readings, & Assignments
-All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2023/) on the course website.
+All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2024/) on the course website.
 
 All readings will be posted on Canvas or made available via hyperlink below. 
 
-###  1/20 | Week 1 | Introduction to Critical GIS + Spatial Data Types
+###  1/19 | Week 1 | Introduction to Critical GIS + Spatial Data Types
 #### In class
 Group map critiques. Examples to be distributed during class
 
@@ -76,7 +76,7 @@ what is GIS + spatial data types (slides from NJIT)
 
 [Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1) -->
 
-### 1/27 | Week 2 | Cartographic Projections + Mapping Existing Datasets
+### 1/26 | Week 2 | Cartographic Projections + Mapping Existing Datasets
 
 <!-- class plan:
 - discussion of readings in small groups + together
@@ -95,7 +95,7 @@ Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond th
 
 Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in *After The Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century*. Chicago: University of Chicago Press. 2016.  [available online via CLIO [here](https://clio.columbia.edu/catalog/12582759?counter=1)]
 
-### 2/3 | Week 3 | Making Data from Archives
+### 2/02 | Week 3 | Making Data from Archives
 <!-- 
 class plan
 discussion of project examples in small groups. provided examples.
@@ -122,7 +122,7 @@ Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoi
 
 
 
-### 2/10 | Week 4 | Making Data From Observation & Sensing
+### 2/09 | Week 4 | Making Data From Observation & Sensing
 
 #### Assignment 2 due – Selective Digitization
 
@@ -140,7 +140,7 @@ Ferrari, Marco, Elisa Pasqual, Alessandro Busi, Aaron Gillett. *A Moving Border:
 Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. “Digital Matatus: Using Mobile Technology to Visualize Informality.” 2015.
 
 
-### 2/17 | Week 5 | Making Data from Satellites
+### 2/16 | Week 5 | Making Data from Satellites
 
 #### Assignment 3 due – Mapping Observations
 
@@ -152,7 +152,8 @@ Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 201
 
 <!-- 
 Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
-### 2/24 | Week 6 | (last day of Session A) | Maps & Narrative
+
+### 2/23 | Week 6 | (last day of Session A) | Maps & Narrative
 
 #### Assignment 4 due – Mapping Remotely
 
@@ -171,7 +172,7 @@ Please read these map-based articles from the New York Times:
 
 <!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
 
-### 3/10 | Mapping Portfolio Due
+### 3/08 | Mapping Portfolio Due
 
 ## Requirements
 

@@ -1,8 +1,8 @@
 module.exports = {
-  pathPrefix: "/methods-in-spatial-research-sp2023",
+  pathPrefix: "/methods-in-spatial-research-sp2024",
   siteMetadata: {
-    title: `A4407-sp2023`,
-    siteUrl: `https://sp2023.org`,
+    title: `A4407-sp2024`,
+    siteUrl: `https://sp2024.org`,
   },
   plugins: [
     "gatsby-plugin-image",
