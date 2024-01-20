@@ -55,7 +55,7 @@ After completing the course participants will:
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2024/) on the course website.
 
-All readings and previous lecture slides will be posted on Canvas and in the [[course drive](http://tinyurl.com/methods-2024-drive)](http://tinyurl.com/methods-2024-drive). 
+All readings and previous lecture slides will be posted on Canvas and in the [course drive](http://tinyurl.com/methods-2024-drive)](http://tinyurl.com/methods-2024-drive). 
 
 ###  1/19 | Week 1 | Introduction to Critical GIS + Spatial Data Types
 #### In class
@@ -85,7 +85,7 @@ what is GIS + spatial data types (slides from NJIT)
 - finding spatial data share resources -->
 #### Assignment 0 due – NYC Trees
 
-#### Readings (available on canvas or in [course Drive](http://tinyurl.com/methods-2024-drive))
+#### Readings (available in [course Drive](http://tinyurl.com/methods-2024-drive))
 
 Corner, James. “The Agency of Mapping.” 2014.
 
@@ -106,7 +106,7 @@ pin up of inadvertent use assignment -->
 #### Assignment 1 due – Intentional Misuse
 
 
-#### Readings (available on canvas or in [course Drive](http://tinyurl.com/methods-2024-drive)) 
+#### Readings (available in [course Drive](http://tinyurl.com/methods-2024-drive)) 
 
 Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.
 
@@ -146,7 +146,7 @@ Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. 
 
 #### Assignment 3 due – Mapping Observations
 
-#### Readings (available on canvas or in [course Drive](http://tinyurl.com/methods-2024-drive) below)
+#### Readings (available in [course Drive](http://tinyurl.com/methods-2024-drive) below)
 
 Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 2013.  
 
