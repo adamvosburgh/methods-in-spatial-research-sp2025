@@ -55,7 +55,7 @@ After completing the course participants will:
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2024/) on the course website.
 
-All readings and previous lecture slides will be posted on Canvas and in the [course drive](http://tinyurl.com/methods-2024-drive)](http://tinyurl.com/methods-2024-drive). 
+All readings and previous lecture slides will be posted on Canvas and in the [course drive](http://tinyurl.com/methods-2024-drive). 
 
 ###  1/19 | Week 1 | Introduction to Critical GIS + Spatial Data Types
 #### In class
