@@ -3,11 +3,15 @@ title: Methods in Spatial Research
 cat: syllabus
 ---
 
-<!-- ![sample maps](images/header_img.png)
+{/* To Update: Class plans are carryover from 2022 for the most part, need to be updated. Make changes to syllabus here, and copy over. .mdx does not like the comment formatting, so these will be published. Make sure to delete before publishing.
+
+In semester, you can change website directly, and then compare to syllabus.md for line level changes. This makes updates easier, but is a pain at the end of the semester. */}
+
+![sample maps](images/header_img.png)
 
 From left:  
 [Dennis Wood. 2011. “Everything Sings: Maps for a Narrative Atlas” via Places Journal](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1); 
-Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net) -->
+Hans Haacke *Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System, as of May 1, 1971*. 1971; [Folder. *Italian Limes*. 2014](http://www.italianlimes.net) 
 
 ## Syllabus
 
@@ -50,43 +54,40 @@ After completing the course participants will:
 | 2/09 | 4 | Making Data From Observation & Sensing | Tutorial 3 |  Assignment 2 |
 | 2/16 | 5 |  Making Data from Satellites | Tutorial 4 |  Assignment 3 |
 | 2/23 | 6 |  Maps & Narrative | Tutorial 5 OR Tutorial 6 |  Assignment 4 |
-| 3/08 |  | Portfolio Due | |
+| 3/08 |  | Portfolio Due | | Assignment 5 (for extra credit) |
 
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2024/) on the course website.
 
-All readings and previous lecture slides will be posted on Canvas and in the [course drive](http://tinyurl.com/methods-2024-drive). 
+All readings and previous lecture slides will be posted on Canvas and in the [course drive](https://drive.google.com/open?id=1Tg8DHP23Y19q6bbjMeUctUM2aqsPuZ8q&usp=drive_fs). 
 
 ###  1/19 | Week 1 | Introduction to Critical GIS + Spatial Data Types
 #### In class
 Group map critiques. Examples to be distributed during class
 
-<!-- class plan:
-intros
+{/* intros
 what this class is
+    - 'intedisciplinary'
     - critical vs radical cartography (from lize mogel atlas)
     - mapping & art
     - multiple methods for spatial research
 discussion of map examples in small groups
     - what are the components? annotate google slides to find: legend, north arrow 
     - look at monmonier for elements of the map
-what is GIS + spatial data types (slides from NJIT)
--->
-<!-- Film: Eames Office. *Powers of Ten: On the Relative Size of things in the Universe*. 1977. 9 minutes.  
+GIS + spatial data types */}
+{/* Film: Eames Office. *Powers of Ten: On the Relative Size of things in the Universe*. 1977. 9 minutes.  
 
-[Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1) -->
+[Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1) */}
 
 ### 1/26 | Week 2 | Cartographic Projections + Mapping Existing Datasets
 
-<!-- class plan:
-- discussion of readings in small groups + together
+{/* - discussion of readings in small groups + together
 - tutorial issues/troubleshooting
 - lecture on projections (add stuff about cassini ) 
-- finding spatial data share resources -->
+- finding spatial data share resources */}
 #### Assignment 0 due – NYC Trees
 
-#### Readings (available in [course Drive](http://tinyurl.com/methods-2024-drive))
-
+#### Readings (available in [course Drive](https://drive.google.com/open?id=1Tg8DHP23Y19q6bbjMeUctUM2aqsPuZ8q&usp=drive_fs))
 Corner, James. “The Agency of Mapping.” 2014.
 
 Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992.
@@ -98,16 +99,15 @@ Cooper, Danika. “Drawing Deserts, Making Worlds.” Essay. In Deserts Are Not 
 Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in *After The Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century*. Chicago: University of Chicago Press. 2016.  [available online via CLIO [here](https://clio.columbia.edu/catalog/12582759?counter=1)]
 
 ### 2/02 | Week 3 | Making Data from Archives
-<!-- 
-class plan
+
+{/* class plan
 discussion of project examples in small groups. provided examples.
 reading discussion
-pin up of inadvertent use assignment -->
+pin up of inadvertent use assignment */}
 #### Assignment 1 due – Intentional Misuse
 
 
-#### Readings (available in [course Drive](http://tinyurl.com/methods-2024-drive)) 
-
+#### Readings (available in [course Drive](https://drive.google.com/open?id=1Tg8DHP23Y19q6bbjMeUctUM2aqsPuZ8q&usp=drive_fs)) 
 Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Density in Mid-Nineteenth-Century New York City.” 2016.
 
 - This is an interdisciplinary paper with insights about both the history of land use in New York City and new methods for uncovering such histories with GIS. The link between these two aspects of the paper is really key and helpful, I think, as an illustration of how to develop spatial projects. They discuss three different sets of methods about three different urban land use phenomena. If you need to skim this piece read the introduction/conclusion and then pick at one of the sections on methods to focus on.
@@ -128,10 +128,7 @@ Digital Scholarship Lab, University of Richmond. *Mapping Inequality* 2015-ongoi
 
 #### Assignment 2 due – Selective Digitization
 
-
-<!-- class plan:
- -->
-#### Readings (available on [google drive](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl) or in [course Drive](http://tinyurl.com/methods-2024-drive))
+#### Readings (available in [course Drive](https://drive.google.com/open?id=1Tg8DHP23Y19q6bbjMeUctUM2aqsPuZ8q&usp=drive_fs)) 
 
 [House, Brian. "Stalking the Smart City." 2019](https://urbanomnibus.net/2019/05/stalking-smart-city/)
 
@@ -146,14 +143,13 @@ Williams, Sarah, Jacqueline Klopp, Daniel Orwa, Peter Waiganjo, and Adam White. 
 
 #### Assignment 3 due – Mapping Observations
 
-#### Readings (available in [course Drive](http://tinyurl.com/methods-2024-drive) below)
+#### Readings (available in [course Drive](https://drive.google.com/open?id=1Tg8DHP23Y19q6bbjMeUctUM2aqsPuZ8q&usp=drive_fs))
 
 Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 2013.  
 
 *Please also review from week 2: Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992* 
 
-<!-- 
-Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016. -->
+{/* Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016.  */}
 
 ### 2/23 | Week 6 | (last day of Session A) | Maps & Narrative
 
@@ -167,28 +163,42 @@ Please read these map-based articles from the New York Times:
 
 - [Serkez, Yaryna. “Opinion: Every Place Under Threat.” The New York Times, October 2, 2020, sec. Opinion.](https://www.nytimes.com/interactive/2020/10/02/opinion/amazon-under-threat.html)
 - [Plumer, Brad, Nadja Popovich, and Brian Palmer. 2020. “How Decades of Racist Housing Policy Left Neighborhoods Sweltering.” The New York Times, August 31, 2020, sec. Climate.](https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html)  
-- Columbia University Libraries provides access to NYTimes.com for all students. Please see instructions [here](https://guides.library.columbia.edu/nytimes) to set up an account
 
     - across these articles and when watching *In Plain Sight* try to focus on identifying the core narrative, and then on discerning *how* the narrative is being conveyed via the maps and other media used
     - *n.b.* there is a longer list of New York Times map-based articles included at the end of the precedents page [here](), please feel free to read several of these in addition to the two listed above (if you choose to read an NYT map article that is not already on cited on the precedents page list, please include a link to the article in your discussion question post on Canvas).  
 
-<!-- Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] -->
+- Columbia University Libraries provides access to NYTimes.com for all students. Please see instructions [here](https://guides.library.columbia.edu/nytimes) to set up an account
+{/* Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] */}
 
 ### 3/08 | Mapping Portfolio Due
 
-## Requirements
+Combine all of your assignments in one PDF. This is also your chance to catch up on assignments that may have stumped you, or refine them now that you have a bit better control of the software.
+Add a title to the top of each page with the assignment number, which tutorial they are following (for assignment 3, 4, and 5) and your two sentence summary.
 
-Attendance & engaged participation (20%)  
-Attendance at all six class sessions is required. You are expected to give engaged and generous participation in class discussions and in critique workshops with your peers. To help prepare reading conversations, each week you will post/pose one question for discussion to the class via Canvas each week by 6pm Thursday night. 
+If you are missing any assignments on courseworks, or have updated the maps, please upload them there as well.
 
-Tutorials (30%)  
-Skills-focused weekly tutorials are required and will expose you to multiple methods for engaging with spatial data. Tutorials include step by step instructions and are graded on completion (not accuracy).
+All assignments are grade on completion. That said, they must answer the prompts laid out in each of the assignments, contain relevant elements of the map (like legends), and use the tools dictated by the relevant tutorials.
 
-Assignments + Portfolio (50%, 10% each)
-Weekly map assignments will allow you to apply the skills acquired via tutorials and begin to experiment with creative applications of spatial methods. Five map assignments will be completed over the course of the six week course and as such are intended to be limited in scope; experimental; and geared towards learning and creative engagement rather than demonstrating advanced skills. Assignment descriptions and associated assessment rubrics will be distributed each week.  
+## Class Requirements and Grading
+
+Grading for the class is as follows:
+
+There are a total of 12 possible points, attendance for each session, assignments and in class contribution each count for one point.
+12 points is a HP, 10 points is a P, 8 points is a LP, and anything is a F.
+
+Attendance (6 points)  
+Attendance at all six class sessions is required. Per GSAPP attendance policy, three unexcused absences is an automatic Unofficial Withdrawal (UW).
+
+In-class participation (1 point)  
+You are expected to give engaged and generous participation in class discussions and in critique workshops with your peers. 
+
+Assignments + Portfolio (5 points, 1 point each)
+Weekly map assignments will allow you to apply the skills acquired via tutorials and begin to experiment with creative applications of spatial methods. Five map assignments will be completed over the course of the six week course and as such are intended to be limited in scope; experimental; and geared towards learning and creative engagement rather than demonstrating advanced skills. Assignment descriptions and associated assessment rubrics can be found on the assignments tab of the course site.
 
 For the final course session you will assemble your map assignments into a single document/portfolio/atlas.
 
+Extra Credit (1 point each)
+Extra credit will be given for the completion of assignment 5, and additional extra credit can be assigned by the instructor in the even that a student has a LP or F.
 
 ## Software
 
@@ -236,6 +246,8 @@ Baics, Gergely, and Leah Meisterlin. “Zoning Before Zoning: Land Use and Densi
 Battle-Baptiste, Whitney, and Britt Rusert, eds. W.E.B. Du Bois’s Data Portraits: Visualizing Black America: The Color Line at the Turn of the Twentieth Century. First edition. [Amherst, Massachusetts] : Hudson, NY: The W.E.B. Du Bois Center at the University of Massachusetts Amherst ; Princeton Architectural Press, 2018.
 
 Corner, James. “The Agency of Mapping.” In Landscape Imagination: Collected Essays of James Corner 1990-2010. New York, UNITED STATES: Princeton Architectural Press, 2014.
+
+Cooper, Danika. “Drawing Deserts, Making Worlds.” Essay. In Deserts Are Not Empty, edited by Samia Henni, 79–107. Columbia University, 2022. 
 
 Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” In Theories and Methods of Spatio-Temporal Reasoning in Geographic Space, edited by A. U. Frank, I. Campari, and U. Formentini, 639:65–77. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer Berlin Heidelberg, 1992.  
 
