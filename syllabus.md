@@ -3,10 +3,6 @@ title: Methods in Spatial Research
 cat: syllabus
 ---
 
-{/* To Update: Class plans are carryover from 2022 for the most part, need to be updated. Make changes to syllabus here, and copy over. .mdx does not like the comment formatting, so these will be published. Make sure to delete before publishing.
-
-In semester, you can change website directly, and then compare to syllabus.md for line level changes. This makes updates easier, but is a pain at the end of the semester. */}
-
 ![sample maps](images/header_img.png)
 
 From left:  
@@ -54,7 +50,9 @@ After completing the course participants will:
 | 2/09 | 4 | Making Data From Observation & Sensing | Tutorial 3 |  Assignment 2 |
 | 2/16 | 5 |  Making Data from Satellites | Tutorial 4 |  Assignment 3 |
 | 2/23 | 6 |  Maps & Narrative | Tutorial 5 OR Tutorial 6 |  Assignment 4 |
-| 3/08 |  | Portfolio Due | | Assignment 5 (for extra credit) |
+| 3/18 |  | Portfolio Due | | Assignment 5 (for extra credit) |
+
+
 
 ## Weekly Schedule, Readings, & Assignments
 All course tutorials and assignments will be posted [here](https://centerforspatialresearch.github.io/methods-in-spatial-research-sp2024/) on the course website.
@@ -65,26 +63,9 @@ All readings and previous lecture slides will be posted on Canvas and in the [co
 #### In class
 Group map critiques. Examples to be distributed during class
 
-{/* intros
-what this class is
-    - 'intedisciplinary'
-    - critical vs radical cartography (from lize mogel atlas)
-    - mapping & art
-    - multiple methods for spatial research
-discussion of map examples in small groups
-    - what are the components? annotate google slides to find: legend, north arrow 
-    - look at monmonier for elements of the map
-GIS + spatial data types */}
-{/* Film: Eames Office. *Powers of Ten: On the Relative Size of things in the Universe*. 1977. 9 minutes.  
-
-[Wood, Dennis. "Everything Sings: Maps for a Narrative Atlas." In Places Journal. 2011.](https://placesjournal.org/article/everything-sings-maps-for-a-narrative-atlas/?cn-reloaded=1) */}
 
 ### 1/26 | Week 2 | Cartographic Projections + Mapping Existing Datasets
 
-{/* - discussion of readings in small groups + together
-- tutorial issues/troubleshooting
-- lecture on projections (add stuff about cassini ) 
-- finding spatial data share resources */}
 #### Assignment 0 due – NYC Trees
 
 #### Readings (available in [course Drive](https://drive.google.com/open?id=1Tg8DHP23Y19q6bbjMeUctUM2aqsPuZ8q&usp=drive_fs))
@@ -100,10 +81,6 @@ Optional: Rankin, William. "Introduction Territory and the Mapping Sciences" in 
 
 ### 2/02 | Week 3 | Making Data from Archives
 
-{/* class plan
-discussion of project examples in small groups. provided examples.
-reading discussion
-pin up of inadvertent use assignment */}
 #### Assignment 1 due – Intentional Misuse
 
 
@@ -149,8 +126,6 @@ Kurgan, Laura. “Mapping Considered as a Problem of Theory and Practice.” 201
 
 *Please also review from week 2: Couclelis, Helen. “People Manipulate Objects (but Cultivate Fields): Beyond the Raster-Vector Debate in GIS.” 1992* 
 
-{/* Desimini, Jill, and Charles Waldheim. “Introduction: Projecting the Landscape Imaginary.” 2016.  */}
-
 ### 2/23 | Week 6 | (last day of Session A) | Maps & Narrative
 
 #### Assignment 4 due – Mapping Remotely
@@ -168,23 +143,24 @@ Please read these map-based articles from the New York Times:
     - *n.b.* there is a longer list of New York Times map-based articles included at the end of the precedents page [here](), please feel free to read several of these in addition to the two listed above (if you choose to read an NYT map article that is not already on cited on the precedents page list, please include a link to the article in your discussion question post on Canvas).  
 
 - Columbia University Libraries provides access to NYTimes.com for all students. Please see instructions [here](https://guides.library.columbia.edu/nytimes) to set up an account
-{/* Mortenbock & Mooshammer. *Informal Market Worlds* [Selections] */}
 
-### 3/08 | Mapping Portfolio Due
+### 3/25 | Mapping Portfolio Due
 
 Combine all of your assignments in one PDF. This is also your chance to catch up on assignments that may have stumped you, or refine them now that you have a bit better control of the software.
 Add a title to the top of each page with the assignment number, which tutorial they are following (for assignment 3, 4, and 5) and your two sentence summary.
 
 If you are missing any assignments on courseworks, or have updated the maps, please upload them there as well.
 
-All assignments are grade on completion. That said, they must answer the prompts laid out in each of the assignments, contain relevant elements of the map (like legends), and use the tools dictated by the relevant tutorials.
+All assignments are grade on completion. That said, they must answer the prompts laid out in each of the assignments, contain relevant elements of the map (like legends), and most importantly, **use the tools taught in the relevant tutorials.**
+
+Assignment 5 is available for those who would like an extra credit point (as described below).
 
 ## Class Requirements and Grading
 
 Grading for the class is as follows:
 
 There are a total of 12 possible points, attendance for each session, assignments and in class contribution each count for one point.
-12 points is a HP, 10 points is a P, 8 points is a LP, and anything is a F.
+12 points is a HP, 10 points is a P, 8 points is a LP, and anything below that is a F.
 
 Attendance (6 points)  
 Attendance at all six class sessions is required. Per GSAPP attendance policy, three unexcused absences is an automatic Unofficial Withdrawal (UW).
@@ -209,7 +185,7 @@ Knowledge of design and layout programs (Adobe Illustrator, and InDesign) may be
 
 ## Course google drive folder
 
-All readings and course data will be available via Google Drive [here](https://drive.google.com/drive/u/1/folders/1fPpmxXXal1q5CPgdC8qQLxX974ytPmJl).
+All readings and course data will be available via Google Drive [here](https://drive.google.com/open?id=1Tg8DHP23Y19q6bbjMeUctUM2aqsPuZ8q&usp=drive_fs).
 
 ## Academic Integrity
 
