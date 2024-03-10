@@ -44,13 +44,16 @@ a:hover {
     font-size: .25rem;
 }
 
- code {
+pre {
+    background-color: #fdf6e3;
+    overflow: scroll;
+}
+
+code {
     font-family: 'Roboto Mono', monospace;
     font-size: 90%;
     font-feature-settings: "clig" 0, "calt" 0;
     background: #ffeff0;
-    word-wrap: break-word;
     box-decoration-break: clone;
-   
     border-radius: .1rem;
 } 
