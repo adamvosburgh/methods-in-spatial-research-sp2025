@@ -7,6 +7,7 @@ module.exports = {
   plugins: [
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
+    `gatsby-plugin-catch-links`,
 
     {
       resolve: "gatsby-source-filesystem",
